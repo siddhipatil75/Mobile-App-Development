@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LayoutDemoApp"
+rootProject.name = "Fragment Communication App"
 include(":app")
