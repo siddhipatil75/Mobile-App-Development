@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "absolutelayout"
+rootProject.name = "Constrain"
 include(":app")
  
