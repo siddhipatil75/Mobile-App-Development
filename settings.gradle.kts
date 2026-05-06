@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "optionmenu"
+rootProject.name = "LayoutDemoApp"
 include(":app")
