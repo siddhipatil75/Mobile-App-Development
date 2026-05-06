@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "notificationsv"
+rootProject.name = "absolutelayout"
 include(":app")
+ 
