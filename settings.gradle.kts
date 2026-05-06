@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fragment Communication App"
+rootProject.name = "notificationsv"
 include(":app")
